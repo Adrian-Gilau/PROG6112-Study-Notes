@@ -1,7 +1,5 @@
 # PROG6112 Code Template Cheat Sheet
 
-16 Nov 2026 · Docs version: https://claude.ai/artifact/52Ut3HNWWnWQ9xHPPNk2Hu
-
 Every complete file below was compiled (Java 21, source level 17) and run, and its JUnit tests passed on JUnit 5 and JUnit 4.13. Shorter excerpts were cut from those files and compiled on their own as well. Swing forms were opened on a virtual screen and their buttons and menus clicked. Textbook references are to Farrell, *Java Programming* 10th ed. (section, printed page).
 
 ## Index
